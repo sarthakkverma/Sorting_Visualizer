@@ -6,5 +6,4 @@ HTML
 CSS
 JavaScript
 
-Contact
-Your Name - sarthakverma0807@gmail.com
+Contact - sarthakverma0807@gmail.com
